@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_e4b153d2d70d47f6464a07ab67a1ea3378db69ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/70c68499660669ed3fa2c32f5071bb7acfd2a3d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0e2bfe4259e4bc77fea10cbe18913baaf795b08/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/5cfd157953f9979139f47215f4b6a6b265d37fef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_60aba649b5943fa6a8577ca4e07d6e008104d88d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_5298f93136ba41908715b01b7e6f40af461e3c00/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/e532fa8a04fc7f6b9bf8ed8bba5bbc213a22c361/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_170ef65228443b6abefe26485133a1b151049128.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/5212f2b2965add3d3b5d089d15564c5f11be32a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33dd836f4ffb67e0451678efa4e19728c63a6b39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/dd437cc9f91a07f904586348e46f48d878f28511/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e12df8e0c4897bb496af6fc72cd8e69ffb6b0e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/c55c94d74d176caa5897226179bfd4c20e1afdc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_10876f4dbb7360c42342f6ef3b3c53dcf18243a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/e334a6edcb2e44d499278fb58a5dc2a1247cbd69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6fa4a5f273ee1d767357c1b8b3fa4349f98c634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/3593dc1373fcf47c1cef9149fc5c59095e434ba0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9efa108dd42e5c3c0c9576e952320312bc7d3cf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/2d0e1c18c344f951841038a4e69634970b838fd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bb820992ffc714058581abd1a1523d87a97694a">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5482e3371b8d8f7f2c4a3a552bd1a2727f825c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_b0a8b521dad14fe946c0d08bdb2a8d1cd45d7a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/77487d89429083515440ec9344d2997af2ba8bca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_af385ff5af5922274f614036100458c495b9b1a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/acd84b190bd12be1ffabc9319080b91d54abc165/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f24bf7497dd208f27ff2a4eb2c2dd46d558a2132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/1e0019ebc9bc57957d4cf63b8797655e356f61e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_169735cf89dc3bdb4e696ff73e1c8e348ed281d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_f89d88f8f06ca7668f1fbfb87fabbb036e92e702/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/03a5d1ae0885d635f13fafa0eafb1b894672616e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dee40b4a01bb48be9ce0df9b5d17129ba41ccc47">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_1a6a230885e1b5bcb9e50549a83925c93c843801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/1b531e5386ebe73d2d9e0a93048ee8b0339a4b4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_5f79f3b388d7e61ff48f79de4ff94dee63f40228.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/8a69172fa40bc72cb08fbea8bc8b6442fd2e6edd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_689138962e6157f0c10b48abb976322b8ab83d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/0cadb49e9f21dbd7ad3c4b3181fd5efc8fe02f22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_542f00df19e4dc24230077547161bcb19c5901fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/3e3982c5fa3e7544b3bea6a2233e7001f70068ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c7d9f294a6bce06b60e4221c13e2e51ff1cd755">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_493c61e13a91d48df72f69a6a9a366e83c243e9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_dc715c119940face8314d789466a189ff6e0483d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/e596359f8826213a08f565916be857b450900838/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e09663005d70dcedff0bb77211b9ac52d8b69421">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bf05b733e3349d0b40e1d148992e4d7c6965420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/5cfd157953f9979139f47215f4b6a6b265d37fef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60aba649b5943fa6a8577ca4e07d6e008104d88d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/8b852259212b69eb3b89a8fa2787f06ea18daecf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56a0b4e3d5febd86b124ce9c884c9a153bfaa38a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/78d1111370f4e8761e372e7ca4fed179affe0c78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70c2fe5d274264095a8768183c20df40eb8d411c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/70c68499660669ed3fa2c32f5071bb7acfd2a3d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_f0e2bfe4259e4bc77fea10cbe18913baaf795b08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/e532fa8a04fc7f6b9bf8ed8bba5bbc213a22c361/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_170ef65228443b6abefe26485133a1b151049128/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/5212f2b2965add3d3b5d089d15564c5f11be32a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_33dd836f4ffb67e0451678efa4e19728c63a6b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/dd437cc9f91a07f904586348e46f48d878f28511/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_e12df8e0c4897bb496af6fc72cd8e69ffb6b0e2a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/c55c94d74d176caa5897226179bfd4c20e1afdc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10876f4dbb7360c42342f6ef3b3c53dcf18243a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/e334a6edcb2e44d499278fb58a5dc2a1247cbd69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_c6fa4a5f273ee1d767357c1b8b3fa4349f98c634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/a5f26fe91b2add37c484e80295bdfa3afcf88235/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="474cccf169297d49fff89fd35b7634a7a9d1031c">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_33f4493b99f7f6150584d3f09afa9b141a330c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_5298f93136ba41908715b01b7e6f40af461e3c00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/3593dc1373fcf47c1cef9149fc5c59095e434ba0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_9efa108dd42e5c3c0c9576e952320312bc7d3cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/8a69172fa40bc72cb08fbea8bc8b6442fd2e6edd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_689138962e6157f0c10b48abb976322b8ab83d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/acd84b190bd12be1ffabc9319080b91d54abc165/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_f24bf7497dd208f27ff2a4eb2c2dd46d558a2132.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/0cadb49e9f21dbd7ad3c4b3181fd5efc8fe02f22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_542f00df19e4dc24230077547161bcb19c5901fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/2d0e1c18c344f951841038a4e69634970b838fd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bb820992ffc714058581abd1a1523d87a97694a">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_5482e3371b8d8f7f2c4a3a552bd1a2727f825c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/1e0019ebc9bc57957d4cf63b8797655e356f61e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_169735cf89dc3bdb4e696ff73e1c8e348ed281d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/03a5d1ae0885d635f13fafa0eafb1b894672616e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dee40b4a01bb48be9ce0df9b5d17129ba41ccc47">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a6a230885e1b5bcb9e50549a83925c93c843801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bdfe365f4b8a085a9a13240d7c1a9b379d6024a">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08f1acb44d9e49e44005cf4cae19d223877c0656/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f89d88f8f06ca7668f1fbfb87fabbb036e92e702.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.android/build-cache/77487d89429083515440ec9344d2997af2ba8bca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af385ff5af5922274f614036100458c495b9b1a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_14399755e12bf9e665c04303df0133a458080981/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/78d1111370f4e8761e372e7ca4fed179affe0c78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_70c2fe5d274264095a8768183c20df40eb8d411c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/3e3982c5fa3e7544b3bea6a2233e7001f70068ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c7d9f294a6bce06b60e4221c13e2e51ff1cd755">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_493c61e13a91d48df72f69a6a9a366e83c243e9e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/genessis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_b0a8b521dad14fe946c0d08bdb2a8d1cd45d7a72/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/genessis/.android/build-cache/8b852259212b69eb3b89a8fa2787f06ea18daecf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/home/genessis/Andrest/TimePiece/TimePieceApp/app/build/intermediates/pre-dexed/debug/classes_56a0b4e3d5febd86b124ce9c884c9a153bfaa38a.jar" />
+    </item>
+
+</items>
